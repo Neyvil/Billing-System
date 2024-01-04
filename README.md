@@ -1,6 +1,6 @@
 Here are some of the sample outputs given below :
 
-OUTPUT ! :
+OUTPUT 1 :
 
 ![output 1](https://user-images.githubusercontent.com/108271216/210062201-058bea87-e251-49db-a2e0-6796d1a061b7.png)
 
